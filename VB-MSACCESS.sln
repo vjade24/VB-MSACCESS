@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VB-MSACCESS", "VB-MSACCESS\VB-MSACCESS.vbproj", "{E964A17D-698A-4E1F-B17E-6D7586EA50C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E964A17D-698A-4E1F-B17E-6D7586EA50C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E964A17D-698A-4E1F-B17E-6D7586EA50C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E964A17D-698A-4E1F-B17E-6D7586EA50C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E964A17D-698A-4E1F-B17E-6D7586EA50C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4412D8F-96EB-4111-BD9A-28B8B1253628}
+	EndGlobalSection
+EndGlobal
